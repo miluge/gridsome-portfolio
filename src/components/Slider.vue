@@ -4,16 +4,19 @@
       <h3 class="text-9xl">
         Hello
       </h3>
+      <p class="text-2xl">lorem ipsum</p>
     </div>
     <div class="slide">
       <h3 class="text-9xl">
         Hello
       </h3>
+      <p class="text-2xl">lorem ipsum</p>
     </div>
     <div class="slide">
       <h3 class="text-9xl">
         Hello
       </h3>
+      <p class="text-2xl">lorem ipsum</p>
     </div>
   </agile>
 </template>

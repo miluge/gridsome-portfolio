@@ -17,7 +17,12 @@
     <slider/>
     <!-- Get in touch! -->
     <section>
-      <h2>Get in touch</h2>
+      <div class="max-w-md flex justify-center">
+        <h3 class="text-2xl">Get in touch</h3>
+        <p>
+          <a class="text-9xl">Gllmblndl@gmail.com</a>
+        </p>
+      </div>
     </section>
     
   </Layout>

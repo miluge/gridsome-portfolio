@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto flex flex-col h-screen justify-between">
+  <div class="mx-auto flex flex-col h-screen justify-between">
     <header class="fixed flex justify-between">
       <strong>
         <g-link to="/">{{ $static.metadata.siteName }}</g-link>
