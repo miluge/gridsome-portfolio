@@ -1,6 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d38ca00a-dd4e-47a7-af3c-41744b916373" name="Default Changelist" comment="Create Navbar, Footer and ThemeSwitcher button">
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Slider.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ThemeSwitcher.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Blog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Portfolio.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lWkfEemfPyiM0fOL0MmOU7yXaz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Slider.vue" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gridsome-portfolio/src/components/Slider.vue" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Slider.vue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d38ca00a-dd4e-47a7-af3c-41744b916373" name="Default Changelist" comment="" />
+      <created>1607720336249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607720336249</updated>
+      <workItem from="1607720337355" duration="15364000" />
+      <workItem from="1607891645923" duration="1050000" />
+      <workItem from="1607894598890" duration="44000" />
+      <workItem from="1608012864926" duration="160000" />
+      <workItem from="1608103631274" duration="1223000" />
+      <workItem from="1608106053155" duration="14000" />
+      <workItem from="1608384891093" duration="1257000" />
+      <workItem from="1608470736911" duration="12000" />
+      <workItem from="1608500045645" duration="3067000" />
+      <workItem from="1608555260818" duration="710000" />
+    </task>
+    <task id="LOCAL-00001" summary="Tailwind setup">
+      <created>1607721539102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607721539102</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Enable Dark mode in 'class' mode">
+      <created>1607722385718</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607722385718</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update .gitignore">
+      <created>1607722422849</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607722422849</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tailwind setup" />
+    <MESSAGE value="Enable Dark mode in 'class' mode" />
+    <MESSAGE value="update .gitignore" />
+    <MESSAGE value="Create Navbar, Footer and ThemeSwitcher button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Navbar, Footer and ThemeSwitcher button" />
   </component>
 </project>

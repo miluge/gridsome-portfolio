@@ -1,15 +1,26 @@
 <template>
-  <div class="layout">
-    <header class="header">
+  <div class="container mx-auto flex flex-col h-screen justify-between">
+    <header class="fixed flex justify-between">
       <strong>
         <g-link to="/">{{ $static.metadata.siteName }}</g-link>
       </strong>
-      <nav class="nav">
-        <g-link class="nav__link" to="/">Home</g-link>
-        <g-link class="nav__link" to="/about/">About</g-link>
-      </nav>
+      <ThemeSwitcher/>
+      <Navbar/>
     </header>
-    <slot/>
+    <main class="mb-auto mt-auto">
+      <slot/>
+    </main>
+    <footer class="flex justify-between my-8">
+      <div>
+        Copyright
+      </div>
+      <div>
+        Made
+      </div>
+      <div>
+        Links
+      </div>
+    </footer>
   </div>
 </template>
 
@@ -29,12 +40,6 @@ body {
   line-height: 1.5;
 }
 
-.layout {
-  max-width: 760px;
-  margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
-}
 
 .header {
   display: flex;
@@ -48,3 +53,10 @@ body {
   margin-left: 20px;
 }
 </style>
+<script>
+import Navbar from "../components/Navbar";
+import ThemeSwitcher from "../components/ThemeSwitcher";
+export default {
+  components: {ThemeSwitcher, Navbar}
+}
+</script>
